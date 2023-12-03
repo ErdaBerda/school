@@ -18,6 +18,7 @@ echelles soit dans noms axes ou en arguments
 en lien avec le developpement: idh, inegalites, echelles acteurs...
 un doc sur risques: risques aleas vulnerabilites 
 
+## Intro
 Accroche:
    DOIT ETRE PERTINENT ET EN LIEN AVEC SUJET
    DOIT ETRE PRECIS, PAS DE RANDOM BANAL
@@ -27,7 +28,11 @@ Accroche:
 - une donnee (doc xxx)
 - une actualité, element de votre culture
 
+Situer le pays:
+   dire ou se trouve le pays (?????)
 
+Problematique
+plan
 
 
 # EX HAITI
